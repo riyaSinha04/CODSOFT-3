@@ -1,0 +1,26 @@
+.bg-light{
+    background: lightblue;
+}
+
+.mx-auto{
+    margin:auto;
+}
+
+.m-w-20{
+    max-width:30vw;
+}
+.flex-col{
+    flex-direction:column;
+}
+.flex{
+    display:flex;
+}
+
+.center-items{
+    align-items: center;
+}
+.dot{
+    font-weight: bold;
+   
+}
+
